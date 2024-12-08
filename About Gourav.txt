@@ -1,0 +1,279 @@
+About Me:
+Gourav Mitra is a passionate and skilled software developer with a solid foundation in AI/ML and computer science. With expertise in backend development, Web development, and Flutter, Gourav is driven by curiosity and a commitment to solving real-world problems through innovative solutions. He strives to create impactful projects while continuously advancing his knowledge in cutting-edge technologies and currently working as Junior Python Developer in technowell.
+
+Here are your contact details and links for easy reference:
+
+Phone: (+91) 6206096729
+Location: Jharkhand, Jamshedpur
+Email: Gouravmitra2000@gmail.com
+GitHub: https://github.com/Gourav078
+LinkedIn: www.linkedin.com/in/gouravmitra089
+
+
+Skills:
+1.Python:
+I have a solid command of Python, leveraging its extensive libraries and frameworks to solve diverse technical challenges. From data analysis with Pandas and NumPy to building machine learning models with TensorFlow and PyTorch, Python is my go-to tool for both research and development. My experience spans scripting automation, developing AI models, and integrating solutions into end-to-end pipelines.
+
+2.SQL (Structured Query Language):
+  Proficient in SQL, I manage, query, and manipulate large datasets with ease. My expertise includes creating complex queries, optimizing database performance, and designing relational schemas. I have hands-on experience with database management systems like MySQL, PostgreSQL, and Microsoft SQL Server, enabling me to extract meaningful insights from structured data efficiently.
+
+3.Data Science Skills:
+  a) Data Science Pipeline: Skilled in the end-to-end data science process, including data cleansing, wrangling, visualization, modeling, and interpretation. From preprocessing raw data to developing robust machine learning models, I ensure every stage of the pipeline is streamlined and efficient.
+  b) Statistics: A strong foundation in statistical principles empowers me to interpret data trends, perform hypothesis testing, and make data-driven decisions.
+  c) Visualization: With a focus on storytelling, I use tools like Matplotlib, Seaborn, and Power BI to craft compelling visualizations that communicate insights effectively to technical and non-technical stakeholders alike.
+
+4.Web Development:
+  Proficient in web development using:
+
+  a) Languages/Frameworks: TypeScript, React.js, JavaScript, Node.js, Express.js, Next.js.
+  b) Styling: Tailwind CSS for designing responsive, user-friendly interfaces.
+  c) RESTful API Development: Skilled in creating robust and efficient RESTful APIs using MongoDB and PostgreSQL.
+
+5.Mobile Development:
+  Proficient in mobile application development using Flutter, designing cross-platform apps with a focus on performance and scalability.
+
+6.Deep Learning Expertise:
+
+  a) Natural Language Processing (NLP): I specialize in building NLP applications, including text classification, sentiment analysis, and chatbot development, leveraging transformer-based architectures for enhanced performance.
+  b) Convolutional Neural Networks (CNNs): Expertise in processing and analyzing images for applications like image recognition, captioning, and object detection. 
+  c) Region-Based Convolutional Neural Networks (RCNNs): Developing precise object detection models for multi-object environments.
+  d) YOLO (You Only Look Once): Implementing real-time object detection solutions across diverse domains, from surveillance to sports analytics.
+
+7.Excel:
+  Advanced user of Microsoft Excel for data organization, analysis, and reporting. Proficient in pivot tables, dynamic charts, advanced formulas, and macros to streamline workflows and enhance productivity.
+
+8.Soft Skills:
+
+  a) Project Management: Skilled in organizing and executing projects, ensuring timely delivery and alignment with objectives.
+  b) Teamwork: Thrives in collaborative settings, contributing innovative ideas and supporting colleagues to achieve shared goals.
+  c) Algorithms: Proficient in algorithm design for optimizing solutions with efficiency and scalability, covering areas like data structures, graph theory, and deep learning.
+
+Current Experience:
+
+Junior Python Developer – Technowell
+Location: Hyderabad, Telangana
+Duration: Current
+
+As a Junior Python Developer at Technowell, I contributed to advanced augmented reality (AR) technologies, machine learning innovations, and AI-driven solutions. My key achievements include:
+
+AR Enhancements:
+Utilized computer vision techniques with OpenCV for object detection and tracking, enabling the seamless overlay of digital elements in AR environments.
+
+Model Integration:
+Integrated YOLOv8 models with TensorFlow to enhance user interactions and optimize data processing in AR systems.
+
+Machine Learning Model Creation:
+Developed and optimized deep learning models, including CNNs and RNNs, for applications in computer vision and sequence-based tasks.
+Implemented these models to improve system capabilities and drive innovative solutions.
+
+AI Chatbot Development:
+Built an intelligent chatbot using natural language processing (NLP) techniques, enhancing conversational AI capabilities for user interactions.
+
+Collaboration & Impact:
+Worked with cross-functional teams to deliver cutting-edge solutions, bridging the gap between technology and user experience.
+
+This role has strengthened my expertise in AR, computer vision, machine learning, and AI, showcasing the practical applications of these technologies in modern solutions.
+
+Previous Experiences:
+
+1) Flutter Developer Intern – NOI Software
+   Location: Kolkata , WestBengal
+   Duration: June 2023 – September 2023
+
+   During my tenure as a Flutter Developer Intern at NOI Software, I contributed significantly to the development of the company's TV App. My key achievements include:
+
+   Feature Development:
+   Developed and implemented key features for the TV App using the Flutter framework, enhancing user engagement and functionality.
+
+   Cross-Functional Collaboration:
+   Worked closely with designers and back-end developers to ensure seamless integration of new functionalities into the application.
+
+   Optimization:
+   Improved app performance by optimizing existing code, leading to faster load times and a smoother user experience.
+
+2) React Developer Intern – Monkeys
+   Location: Remote
+   Duration: August 2023 – October 2023
+
+   As a React Developer Intern at Monkeys, I played an integral role in building the "Monkeys" website. My contributions include:
+
+   Front-End Development:
+   Designed and implemented the front-end architecture using React.js, focusing on creating scalable and maintainable components.
+
+   Interactive Features:
+   Enhanced the website's user experience by integrating interactive elements and ensuring responsive design with Tailwind CSS.
+
+   Collaboration with Designers:
+   Partnered with the design team to translate visual mockups into reusable and responsive React components.
+
+3) Web Developer Intern – Code Clause
+   Location: Remote
+   Duration: February 2024 – March 2024
+
+   As a Web Developer Intern at Code Clause, I worked on creating a real-time chat application. My key achievements include:
+
+   Real-Time Communication:
+   Engineered a robust real-time chat application using Node.js and WebSockets, enabling seamless instant messaging functionality.
+
+   Backend Infrastructure:
+   Developed a scalable backend infrastructure with Node.js to support efficient data exchange and user interactions.
+
+   UI Integration:
+   Integrated visually appealing and user-friendly designs into the chat interface, ensuring alignment with design specifications.
+
+
+Projects :
+
+1) Image Caption Generator using CNN, RNN, and VGG16 – Python, TensorFlow, Keras
+
+   Developed an image caption generator model by combining Convolutional Neural Networks (CNN) with Recurrent Neural Networks (RNN), utilizing VGG16 for feature extraction.
+   Used VGG16 pre-trained on ImageNet to extract high-level features from images, which were then passed through an RNN (LSTM) to generate descriptive captions.
+   Achieved high accuracy in generating meaningful and contextually relevant captions, improving the model's understanding of visual data.
+   Leveraged deep learning techniques like transfer learning (VGG16) and sequence generation (RNN) for the image captioning task.
+
+2) AI Chatbot with GROQ, LangChain, and Hugging Face – Python, LangChain, Hugging Face, GROQ
+   
+   Developed an advanced AI chatbot leveraging GROQ, LangChain, and Hugging Face to provide natural and conversational interactions.
+   Integrated LangChain to manage conversational workflows, handle user queries, and process responses in an organized and modular way.
+   Utilized Hugging Face's Transformer models for NLP tasks like question answering, text generation, and sentiment analysis to improve response accuracy and context understanding.
+   Employed GROQ to query data in real-time, allowing the chatbot to retrieve dynamic information from structured data sources efficiently.
+   Focused on building a robust, scalable system that can be deployed in both small-scale applications and enterprise-level services, ensuring high responsiveness and real-time interaction.
+   Enhanced the chatbot with multi-turn conversation handling to maintain context across different user inputs and make the chatbot more interactive and intelligent.
+
+3) Point Cloud Classification – Python, TensorFlow, PyTorch, 3D Data Processing
+   
+   Applied deep learning techniques to classify 3D point cloud data into distinct categories, such as buildings, vehicles, and trees.
+   Utilized neural networks such as PointNet and PointNet++ to process raw 3D point cloud data, achieving high classification accuracy.
+   Enhanced expertise in processing 3D spatial data, leveraging advanced techniques in point cloud segmentation and feature extraction.
+   This project enabled a deeper understanding of complex environments, making it applicable to areas such as autonomous driving, urban planning, and environmental monitoring.
+
+4) 3D Point Cloud and Mesh Generation Using a Single Image – Python, OpenCV, Hugging Face, Deep Learning, 3D Reconstruction
+
+   Developed a system to reconstruct 3D point clouds and meshes from a single 2D image, leveraging photogrammetry principles combined with pre-trained 3D models from Hugging Face for realistic 3D representations.
+   Utilized a pre-trained 3D model from Hugging Face, such as MiDaS or DETR3D, to estimate depth maps and 3D structure from 2D images, significantly improving reconstruction quality and reducing training time.
+   Enhanced 3D modeling and mesh generation by integrating depth estimation techniques and multi-view stereo (MVS) algorithms.
+   Enabled applications in 3D modeling, augmented reality (AR), and virtual environments by offering a streamlined pipeline for converting 2D images into rich, detailed 3D content.
+   This approach not only increased the accuracy of the 3D reconstructions but also made it easier to generate complex 3D models from just a single photograph or image, leveraging cutting-edge pre-trained models for fast and efficient processing.
+
+
+5) Machine Learning Real Estate Price Prediction – Python, Pandas, Scikit-learn, Matplotlib
+   
+   Developed a Machine Learning model to predict real estate prices using historical data of properties such as location, size, amenities, and market trends.
+   Leveraged Pandas for data preprocessing and feature engineering, cleaning and transforming raw data into a format suitable for machine learning models.
+   Used Scikit-learn to train multiple regression models, including Linear Regression, Decision Trees, and Random Forests, for price prediction.
+   Evaluated model performance using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² score to ensure the accuracy of predictions.
+   Visualized key data insights and model predictions using Matplotlib and Seaborn, helping to identify trends, correlations, and outliers in the dataset.
+   Implemented feature selection techniques to reduce overfitting and improve the generalizability of the model.
+   The model provided valuable insights for real estate investors, helping them make informed decisions by predicting property prices based on historical data and market conditions.
+
+
+6) Ecommerce Website – HTML, CSS, JavaScript
+   
+   Designed and developed a fully functional e-commerce website focused on enhancing user experience.
+   Achieved a 25% reduction in page load times, resulting in a 15% decrease in bounce rates and a 20% increase in conversion rates.
+   Implemented pricing strategies that led to a 10% increase in average order value compared to competitors.
+
+7) Admin Dashboard – React JS, Tailwind CSS, Node JS, Express JS, Mongo DB
+
+   Developed a user-friendly admin dashboard to streamline management tasks and data visualization.
+   Increased admin dashboard usage by 40%, with an average time spent of 30 minutes per session.
+   Improved user interaction with charts by 25% and increased calendar events added/modified by 15%.
+
+8) Python Turtle Graphics – Python
+   
+   Developed interactive graphical drawings using Python's Turtle module to create various shapes and designs.
+   Utilized Turtle’s drawing capabilities to create dynamic shapes, patterns, and designs with simple commands.
+   Demonstrated proficiency in understanding Python logic and graphical design by creating both static and animated visuals.
+   Enhanced problem-solving skills by applying loops and functions to produce intricate patterns and drawings.
+
+9) Employee Registration Form with Tomcat, MySQL, JDBC, Hibernate, Spring, Java7, and Eclipse – Java, MySQL, Hibernate, Spring, JDBC, Tomcat, Eclipse
+  
+  a) Developed an Employee Registration System that allows users to register employees into a database using a web-based interface.
+     Backend Technologies:
+     Implemented JDBC to handle database connections and interactions, allowing CRUD (Create, Read, Update, Delete) operations on the employee data stored in MySQL.
+     Used Hibernate for ORM (Object-Relational Mapping), simplifying the interaction with the MySQL database and ensuring efficient database operations.
+     Integrated Spring Framework to handle dependency injection, provide transaction management, and manage the business logic layer.
+   
+  b) Frontend Technologies:
+     Designed a user-friendly registration form in the web interface for employees to input their data, such as name, department, and job title.
+     
+  c) Deployment:
+     Deployed the application on Tomcat, which served as the web server for handling HTTP requests and rendering the registration form.
+     Development Environment:
+     Developed and tested the application using Eclipse IDE and Java 7, utilizing its debugging and integration tools for a smooth development experience.
+     Key Features:
+     Seamless integration between the frontend (HTML forms) and backend (Spring, Hibernate, and MySQL) through MVC architecture.
+     Ensured the system supports scalability and maintains performance through optimized SQL queries and Hibernate configuration.
+     Implemented form validation and error handling to ensure a robust and user-friendly experience.
+
+10) News Aggregator Application – React JS, HTML, CSS, JavaScript, News API
+
+   Built a news aggregator application using React.js that fetches and displays news articles from various sources.
+   Integrated News API to fetch the latest headlines and news articles, and displayed them in an organized, easy-to-navigate interface.
+   Utilized React Hooks and State Management to handle dynamic content and ensure smooth updates without page reloads.
+   Implemented sorting and filtering features to allow users to customize their news feeds based on categories, sources, or keywords.
+   Focused on performance optimization and responsive design to ensure that the application functions well on both desktop and mobile devices.
+
+11) Real-Time Chat Application – React JS, Node JS, WebSocket, Express JS, MongoDB
+
+   Developed a real-time chat application using React.js for the frontend and Node.js with WebSocket for the backend to enable instant messaging between users.
+   Integrated WebSocket for real-time communication, allowing users to send and receive messages instantly without page refreshes.
+   Implemented Express.js to handle backend routing and user authentication, ensuring that chat sessions were secure and private.
+   Utilized MongoDB for storing user data and message history, providing persistence and scalability to the chat system.
+   Focused on enhancing the user experience with a sleek, interactive UI using React, incorporating features like user notifications, message history, and typing indicators.
+   Deployed the application using Heroku and optimized performance to handle multiple users in real-time without performance issues.
+
+12)Backend for Blog Website with CRUD Operations – MongoDB, Express.js, Node.js, JavaScript
+   
+   Developed the backend for a blog website with full CRUD (Create, Read, Update, Delete) functionality using Node.js, MongoDB, Express.js, and JavaScript.  
+   Utilized Node.js as the runtime environment for building a scalable and high-performance backend that can handle multiple requests concurrently.
+   Implemented the RESTful API to allow users to create, read, update, and delete blog posts, handling various HTTP requests (GET, POST, PUT, DELETE).
+   Used MongoDB as the NoSQL database to store and manage blog post data, ensuring data persistence and scalability.
+   Incorporated Express.js to handle routing, middleware, and HTTP request handling, streamlining the server-side logic.
+   Implemented user authentication and authorization with JWT (JSON Web Tokens), ensuring secure access to CRUD operations based on user roles.
+   Added data validation and error handling features to ensure smooth API operation and prevent invalid data from being processed.
+   Integrated the backend with the frontend of the website to allow dynamic display of blog posts and facilitate interactions such as commenting and updating posts.
+   Focused on optimizing API performance for better scalability and faster response times.
+
+13)Nutrition App – Flutter, Firebase, Dart
+
+   Developed a nutrition tracking app using Flutter and Firebase to help users monitor their daily nutritional intake.
+   Integrated Firebase for backend services, including user authentication, data storage, and real-time syncing of nutrition data.
+   Designed a user-friendly interface with Flutter’s widget-based architecture, allowing users to log their meals, track their calorie intake, and view nutritional information.
+   Implemented features like meal suggestions, daily goal tracking, and progress analytics, helping users maintain a healthy diet.
+   Used Dart to build efficient, high-performance code for the mobile application.
+   Focused on making the app responsive across devices and optimized for performance to provide a seamless user experience.
+
+14)E-Book App – Flutter, Firebase, Dart
+
+   Developed an e-book reader app using Flutter and Firebase to provide users with access to a variety of digital books.
+   Integrated Firebase for user authentication, real-time syncing of reading progress, and cloud storage of e-book files.
+   Designed and implemented the e-book reader interface with features like font adjustment, bookmarking, text highlighting, and note-taking.
+   Used Flutter to implement cross-platform support, ensuring that the app is compatible with both Android and iOS devices.
+   Integrated offline support, allowing users to download books for reading without an internet connection.
+   Focused on creating a smooth and engaging user experience with intuitive navigation and easy-to-use features for book management.
+
+15)Kanban Board – HTML, CSS, JavaScript
+   
+   Developed a Kanban board application using HTML, CSS, and JavaScript to help users manage tasks and track progress visually.
+   Implemented features like task creation, drag-and-drop functionality, task prioritization, and categorization using JavaScript.
+   Used localStorage to persist tasks and board state, ensuring the user’s progress is saved even after the page reloads.
+   Designed the user interface with CSS to provide a clean and intuitive layout, mimicking a traditional Kanban board used in project management.
+   Focused on creating a responsive design to ensure compatibility across different screen sizes and devices.
+   
+16)Multiplication Quiz App – HTML, CSS, JavaScript
+  
+   Built a multiplication quiz app using HTML, CSS, and JavaScript to help users practice and improve their multiplication skills.
+   Created an interactive quiz interface with features such as random number generation, timers, and score tracking to enhance the user experience.
+   Designed an engaging and easy-to-use UI with CSS, ensuring a smooth layout and visual feedback based on quiz results (correct/incorrect answers).
+   Used JavaScript to handle user interactions, evaluate answers, and provide real-time feedback with correct answers and explanations.
+   Focused on providing an intuitive, fun, and educational experience that adapts to various skill levels, with increasing difficulty as the user progresses.
+
+
+
+
+
+
+
+ 
+
