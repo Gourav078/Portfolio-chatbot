@@ -47,10 +47,13 @@ with st.sidebar:
     st.subheader("Languages")
     st.write("Python, SQL (Structured Query Language) Javascript, TypeScript, Dart, Java ")
 
-    st.subheader("Data Science")
+    st.subheader("Data Science and Machine Learning")
     st.write(
-        "Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics)")
-
+        """
+        Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, 
+        Machine Learning (CNN, RNN) using Keras, TensorFlow, and NLP techniques with PyTorch.
+        """
+    )
     st.subheader("Computer Vision")
     st.write("Object Detection and Tracking, Image Processing")
 
